@@ -94,7 +94,7 @@ Si cambias un horario, cambia en toda la aplicación y no puede haber incoherenc
 1. **Clona el repositorio**
 
    ```bash
-   git clone https://github.com/TU_USUARIO/macrofit.git
+   git clone https://github.com/joseiverp/macrofit.git
    cd macrofit
    ```
 
